@@ -1,6 +1,8 @@
 # cat2
 my new project
 
+foo
+
 Based on seed project `atomist-seeds:spring-rest-seed`
 
 ## Development
